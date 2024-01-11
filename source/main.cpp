@@ -1,5 +1,3 @@
-/* Copyright 2022-2023 Sensaru GmbH */
-
 #include "em_chip.h"
 #include "em_cmu.h"
 
